@@ -8,8 +8,8 @@ First (**1.**), we calculate the Average Precision (AP), for each of the classes
 ## Prerequisites
 
 You need to install:
-	python3
-	matplotlib [optional]
+	python3,
+	matplotlib [optional],
 	opencv-python [optional]
 	
 ## Running the code
