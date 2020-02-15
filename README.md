@@ -60,4 +60,4 @@ Step by step:
     book 0.269833 433 260 506 336
     ```
     
-    Graphs are stored in /results folder
+    Graphs are stored in **/results** folder
