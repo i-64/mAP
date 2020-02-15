@@ -16,15 +16,16 @@ You need to install:
 
 Step by step:
 
-  1. [Create the ground-truth files](#create-the-ground-truth-files)
-  2. Copy the ground-truth files into the folder **input/ground-truth/**
-  3. [Create the detection-results files](#create-the-detection-results-files)
-  4. Copy the detection-results files into the folder **input/detection-results/**
-  5. Run the code:
+  1. Create folder "input", within which create "ground-truth" and "detection-results"
+  2. [Create the ground-truth files](#create-the-ground-truth-files)
+  3. Copy the ground-truth files into the folder **input/ground-truth/**
+  4. [Create the detection-results files](#create-the-detection-results-files)
+  5. Copy the detection-results files into the folder **input/detection-results/**
+  6. Run the code:
          ```
          python main.py
          ```
-  6. Input the minimum overlap threshold (e.g. 0.5 or 0.75 or 0.95)
+  7. Input the minimum overlap threshold (e.g. 0.5 or 0.75 or 0.95)
          
 #### Create the ground-truth files
 
