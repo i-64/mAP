@@ -24,6 +24,7 @@ Step by step:
          ```
          python main.py
          ```
+  6. Input the minimum overlap threshold (e.g. 0.5 or 0.75 or 0.95)
          
 #### Create the ground-truth files
 
